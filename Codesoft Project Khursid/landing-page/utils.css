@@ -1,0 +1,155 @@
+.min-h-screen {
+    min-height: 100vh;
+  }
+  .bg-red {
+    background-color: red;
+  }
+  .mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .flex {
+    display: flex;
+  }
+  .align-item {
+    align-items: center;
+  }
+  .justify-center {
+    justify-content: center;
+  }
+  .items-center {
+    align-items: center;
+  }
+  .justify-between {
+    justify-content: space-between;
+  }
+  .navbar {
+    display: flex;
+    height: 67px;
+  }
+  .font-bold {
+    font-weight: bold;
+  }
+  .navbar li {
+    list-style: none;
+    margin: 0 12px;
+  }
+  .topleft {
+    width: 50%;
+  }
+  
+  .topright {
+    width: 50%;
+  }
+  .section1 {
+    max-height: 100vh;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  .my-1 {
+    margin-top: 13px;
+    margin-bottom: 13px;
+  }
+  .px-2 {
+    padding-left: 13px;
+    padding-right: 13px;
+  }
+  .text-blue {
+    color: #ee9212;
+  }
+  .btn {
+    background-color: #ee9212;
+    border: 2px solid white;
+    color: white;
+    font-size: 16px;
+    padding: 4px 12px;
+    border-radius: 10px;
+    font-weight: bolder;
+    cursor: pointer;
+  }
+  .logo {
+    font-size: 1.3rem;
+  }
+  .dumbellimg {
+    width: 236px;
+  }
+  .text-center {
+    text-align: center;
+  }
+  .topright .gymimg {
+    width: 466px;
+  }
+  .section2 {
+    padding: 0 8vw;
+    text-align: center;
+  }
+  .section h1 {
+    font-size: 2rem;
+  }
+  .my-2 {
+    margin-top: 26px;
+    margin-bottom: 26px;
+  }
+  .section2 {
+    padding: 63px;
+  }
+  .section2 h1 {
+    font-size: 2rem;
+  }
+  .box {
+    padding: 8px 0;
+    margin: 12px 22px;
+    min-width: 20vw;
+    border: 2px solid rgb(176, 82, 14);
+    text-align: center;
+    border-radius: 8px;
+  }
+  .box ul {
+    list-style-type: none;
+  }
+  .highlighted {
+    font-weight: bolder;
+    font-size: 1.2rem;
+  }
+  .plantable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .section3 table {
+    width: 54vw;
+    margin: 40px 0;
+    border-collapse: collapse;
+  }
+  .section3 h1 {
+    font-size: 2.3rem;
+  }
+  .section3 {
+    padding: 63px;
+    padding-right: 63px;
+  }
+  .section3 table th {
+    width: 23vw;
+    border-bottom: 2px solid black;
+    padding: 15px 0;
+  }
+  .section3 table td {
+    border-bottom: 2px solid black;
+  }
+  .section table tr {
+    border-bottom: 2px solid black;
+  }
+  footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 23px;
+  }
+  .flex-direction {
+    flex-direction: column;
+  }
+  .font-weight {
+    font-weight: bolder;
+  }
